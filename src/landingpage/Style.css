@@ -1,0 +1,17 @@
+.lp-wrapper {
+    position: absolute;
+    top: 46%;
+    color: #FFF;
+    left: 20%;
+}
+.headline {
+    font-size: xxx-large;
+}
+.headine-msg {
+    width: 50%;
+}
+.landing-page {
+    height: auto;
+    flex-grow: 1;
+    height: 100%;
+}

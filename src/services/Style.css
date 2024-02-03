@@ -1,0 +1,15 @@
+.services {
+    text-align: center;
+    width: 75%;
+    margin: 50px auto;
+}
+.services-header {
+    font-size: xx-large;
+    color: #5acd83;
+}
+.services-cards {
+   display: flex;
+   justify-content: space-evenly;
+   flex-direction: row;
+   margin-top: 25px;
+}

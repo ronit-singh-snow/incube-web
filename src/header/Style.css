@@ -1,0 +1,17 @@
+.navbar-pd {
+    padding: 20px 10%;
+}
+.firm-name {
+    background: linear-gradient(45deg, #7ed957, #00afef);
+    display: inline;
+    vertical-align: middle;
+    background-clip: text;
+    font-weight: bold;
+    -webkit-text-fill-color: transparent;
+}
+.nav-container {
+    margin-left: 7rem;
+} 
+.nav-item-container {
+    padding: 0.5rem 2rem !important;
+}

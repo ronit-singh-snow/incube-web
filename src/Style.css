@@ -1,3 +1,10 @@
-.navbar-pd {
-    padding: 0 10%;
+.page-wrapper {
+    /* background: linear-gradient(45deg, #6cd36d75, #0cb3e182); */
+}
+
+.navbar a {
+    color: #FFF;
+}
+.navbar a.active {
+    color: #007bff;
 }
