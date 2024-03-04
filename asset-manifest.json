@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/incube-web/static/css/main.f3cb92bc.css",
+    "main.js": "/incube-web/static/js/main.d55dedf8.js",
+    "static/js/592.1d510b15.chunk.js": "/incube-web/static/js/592.1d510b15.chunk.js",
+    "static/media/rm218-bb-04.jpg": "/incube-web/static/media/rm218-bb-04.6e4aff2e0b87ff6a7530.jpg",
+    "static/media/incube - black.png": "/incube-web/static/media/incube - black.11607a2c2c855efcd271.png",
+    "static/media/itsm_csm.svg": "/incube-web/static/media/itsm_csm.d2396562b920efe9433bfa9d56d543a8.svg",
+    "index.html": "/incube-web/index.html",
+    "main.f3cb92bc.css.map": "/incube-web/static/css/main.f3cb92bc.css.map",
+    "main.d55dedf8.js.map": "/incube-web/static/js/main.d55dedf8.js.map",
+    "592.1d510b15.chunk.js.map": "/incube-web/static/js/592.1d510b15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3cb92bc.css",
+    "static/js/main.d55dedf8.js"
+  ]
+}
