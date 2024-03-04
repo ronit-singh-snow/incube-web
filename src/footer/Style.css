@@ -1,0 +1,16 @@
+footer {
+    background-color: #181b1b;
+    color: #FFF;
+    .footer-container {
+        width: 60%;
+        margin: auto;
+        padding: 3rem 0;
+        flex-direction: row;
+        display: flex;
+        justify-content: space-between;
+    }
+    .footer-right {
+        flex-basis: 20rem;
+        font-size:large;
+    }
+}

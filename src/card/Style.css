@@ -1,0 +1,24 @@
+.icon {
+    width: 128px;
+    height: 128px;
+}
+.card-body {
+    height: 220px;
+    overflow: hidden;
+    position: relative;
+    transition: .3s cubic-bezier(.6,.4,0,1),transform .15s ease;
+}
+.card-title {
+    margin-top: 1rem;
+}
+.card-text {
+    position: absolute;
+    top: 100%;
+    transition: all .3s cubic-bezier(.6,.4,0,1);
+}
+.card-body:hover > .icon {
+    display: none;
+}
+.card-body:hover > .card-text {
+    top: 65px;
+}
